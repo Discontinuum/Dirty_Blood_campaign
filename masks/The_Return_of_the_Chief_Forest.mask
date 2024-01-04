@@ -1,0 +1,15 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, Ur, _f, Ur, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, Xoc, _f, Ur, _f, Ur, Ur, Ur, Ur, Ur, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, Xoc, Xoc, Xoc, Ur, Xoc, Xoc, _f, Ur, Ur, Ur, _f, _f, _f, _f, _f
+_f, _f, _f, _f, Qxua, Xoc, Xoc, Xoc, Xoc, _f, Xoc, Xoc, Ur, Ur, Ur, _f, _f, _f, _f
+_f, _f, Qxua, Qxua, Qxua, Xoc, Xoc, Xoc, Xoc, Xoc, Xoc, Xoc, Xoc, Ur, Ur, _f, Ur, _f, _f
+_f, _f, _f, Qxua, _f, Qxua, Qxua, _f, Qxua, _f, Xoc, Xoc, Xoc, Xoc, Ur, Ur, Ur, _f, _f
+_f, _f, Qxua, Qxua, Qxua, Qxua, Qxua, Qxua, Qxua, Qxua, Qxua, Xoc, Xoc, Xoc, Xoc, Ur, Ur, Ur, _f
+_f, Qlf, Qlf, Qxua, Qlf, Qxua, Qxua, Qxua, _f, Qxua, Qxua, Xoc, Xoc, Xoc, Xoc, Ur, Ur, Ur, _f
+_f, Qlf, Qlf, Qlf, _f, Qlf, Qlf, Qxua, _f, Qxua, Qxua, Xoc, Xoc, Xoc, Xoc, Xoc, Xoc, _f, _f
+_f, Qlf, Qlf, Qlf, Qlf, _f, Qlf, Qlf, _f, _f, Qxua, Qxua, Qxua, Xoc, _f, Xoc, _f, _f, _f
+_f, _f, Qlf, Qlf, Qlf, _f, Qlf, Qlf, Qlf, Qxua, Qxua, Qxua, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, Qlf, _f, Qlf, Qlf, Qlf, Qlf, Qlf, Qxua, _f, Qxua, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, Qlf, _f, Qlf, _f, Qlf, _f, Qxua, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
