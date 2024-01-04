@@ -1,0 +1,6 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, Ko, Co, _f, Ko, _f, Co, Ko, _f
+_f, _f, Co, Ko, Ko, Ko, Co, _f, _f
+_f, _f, Co, Ko, Ko, Ko, Co, _f, _f
+_f, Ko, _f, Co, Co, Co, _f, Ko, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f
